@@ -211,7 +211,7 @@ header, #twoway {
   margin: 0 5.555555555555555%;
 }
 #twoway .wrapper div{
-    border: thin dashed red;margin: 1.5em 0 1.5em;height: 12.5em
+    margin: 1.5em 0 1.5em;height: 9.5em
   }
 h1, h2 {
   margin: 0.9230769230769231em 0 1.3846153846153846em;
@@ -288,9 +288,9 @@ h3 {
   }
   
   #twoway .wrapper div{
-    border: thin dashed red;margin: 1.5em 0 1.5em;height: 12.5em;
+   	margin: 1.5em 0 1.5em;height: 9.5em;
     text-align: center;
-   -webkit-box-shadow: 20px #b2492c, 40px -40px #ea5f24, 60px -60px #f8c617, 80px -80px #068e8c, 100px -100px #0bc3b8; 
+    background-color: #cccccc;
   }
 }
 /* @media screen and (min-width: 888px) */
